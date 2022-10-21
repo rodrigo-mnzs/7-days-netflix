@@ -7,7 +7,7 @@
 Daily             |Situação
 ------------------|---------
 Banner de destaque|✔
-Pendente          |❌
+Navbar            |✔
 Pendente          |❌
 Pendente          |❌
 Pendente          |❌

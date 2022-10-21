@@ -1,0 +1,11 @@
+.header {
+    align-items: center;
+    background-color: #000000;
+    display: flex;
+    gap: 1rem;
+    padding-top: 16px;
+}
+
+.header nav {
+    flex-grow: 1;
+}
