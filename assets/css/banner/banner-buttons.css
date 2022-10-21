@@ -1,0 +1,23 @@
+.banner__buttons {
+    display: flex;
+    gap: 1rem;
+}
+
+.banner__buttons--assistir {
+    background-color: #FDFDFD;
+    border: none;
+    border-radius: .2rem;
+    font-size: 18px;
+    font-weight: 700;
+    padding: .8rem 2rem;
+}
+
+.banner__buttons--mais {
+    color: #FDFDFD;
+    background-color: rgba(104, 104, 104, 0.6);
+    border: none;
+    border-radius: .2rem;
+    font-size: 1.125rem;
+    font-weight: 700;
+    padding: .8rem 2rem;
+}
