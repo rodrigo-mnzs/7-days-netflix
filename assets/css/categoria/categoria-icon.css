@@ -1,0 +1,12 @@
+.categoria__icon {
+    color: #FDFDFD;
+    font-size: 2rem;
+    margin-left: -2.5rem;
+    position: absolute;
+    transition: .3s;
+}
+
+.categoria__icon:hover {
+    transition: .3s;
+    transform: scale(1.5);
+}

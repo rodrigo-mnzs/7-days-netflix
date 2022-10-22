@@ -1,0 +1,12 @@
+.categoria__item {
+    cursor: pointer;
+    height: auto;
+    margin-right: .5rem;
+    transition: .3s;
+    width: calc(20% - .5rem);
+}
+
+.categoria__item:hover {
+    transition: .3s;
+    transform: scale(1.1);
+}

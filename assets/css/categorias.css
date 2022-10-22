@@ -1,0 +1,11 @@
+.categorias{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.categorias__titulo{
+    color: #FDFDFD;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
