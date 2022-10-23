@@ -1,5 +1,6 @@
 .categoria {
     align-items: center;
     display: flex;
+    margin-bottom: 2rem;
     margin-right: -.5rem;
 }

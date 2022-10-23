@@ -9,7 +9,7 @@ Daily             |Situação
 Banner de destaque|✔
 Navbar            |✔
 Seção Minha lista |✔
-Pendente          |❌
+Seção Em alta     |✔
 Pendente          |❌
 Pendente          |❌
 Pendente          |❌
